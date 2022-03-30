@@ -265,29 +265,4 @@ cp.to.diff <- function(x1=NULL, x2=NULL, n1, n2, cp_fu=0.15){
   }
 }
 cp.to.diff(x1=11, x2=NULL, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=10, x2=NULL, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=9, x2=NULL, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=8, x2=NULL, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=11, x2=9, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=10, x2=8, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=9, x2=5, n1=38, n2=74, cp_fu=0.15)
-cp.to.diff(x1=8, x2=6, n1=38, n2=74, cp_fu=0.15)
-
-
-
-cp.to.diff(x1=33, x2=NULL, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=30, x2=NULL, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=28, x2=NULL, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=25, x2=NULL, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=NULL, x2=20, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=NULL, x2=17, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=NULL, x2=13, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=NULL, x2=10, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=33, x2=28, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=33, x2=29, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=32, x2=28, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=21, x2=17, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=18, x2=14, n1=110, n2=220, cp_fu=0.15)
-cp.to.diff(x1=17, x2=13, n1=110, n2=220, cp_fu=0.15)
-
 
