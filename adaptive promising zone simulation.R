@@ -1,9 +1,6 @@
 # simulating trials with binomial endpoint to evaluate operating characteristics
-<<<<<<< HEAD
 # of an adaptive design based on promising zone with futility and efficacy stop
-=======
-# of a adaptive design based on promising zone with futility and efficacy stop
->>>>>>> 06e01525d6f5953854f215188515d922d59871f2
+
 
 if (!require("gsDesign")) {
   install.packages("gsDesign")
